@@ -147,3 +147,15 @@
  - [Write custom middleware](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/middleware/write?view=aspnetcore-3.1) :heavy_check_mark:  
  
  - [Background tasks with hosted services](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/host/hosted-services?view=aspnetcore-3.1&tabs=visual-studio) :heavy_check_mark:  
+ 
+ ## Videos 
+ 
+ ### ASP.NET Core 3.0 New Features
+ 
+ - [Blazor](https://msit.microsoftstream.com/video/66976478-da6f-4bc6-9f51-07c11f17bf92)
+ 
+ - [Identity server 4 API Authorization support in asp.net core 3.0](https://msit.microsoftstream.com/video/14734d09-1848-4cf6-ab4c-3ab7b2b6a60e)
+ 
+ - [New JSON serialization](https://msit.microsoftstream.com/video/8d7e2a2d-013c-4287-b8fc-a111348e9d9e)
+ 
+ - [Create a Landlord Game Using Blazor](https://msit.microsoftstream.com/video/b6fc38a0-51d1-4679-87d7-efdb164f67cc)
