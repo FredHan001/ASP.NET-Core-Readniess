@@ -39,9 +39,9 @@
 
     3.[Filter methods for Razor Pages in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/razor-pages/filter?view=aspnetcore-3.1) :heavy_check_mark:  
     
- #### MVC (total 3d)
+ #### MVC (total 4d)
  
- - [MVC (basic series)](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/?view=aspnetcore-3.1) 1.5d
+ - [MVC (basic series)](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/?view=aspnetcore-3.1) 2d
 
     1.[Get started](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-3.1)
 
@@ -63,7 +63,7 @@
     
     10.[Examine the Details and Delete methods](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/details?view=aspnetcore-3.1)
 
-- MVC (advanced series) 1.5d
+- MVC (advanced series) 2d
 
     1.[Passing data to views](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/overview?view=aspnetcore-3.1#passing-data-to-views) :heavy_check_mark:  
 
@@ -126,7 +126,7 @@
   
   - [App part](https://docs.microsoft.com/en-us/aspnet/core/mvc/advanced/app-parts?view=aspnetcore-3.1) 0.25d
   
-## Fundamentals (total 1.5d)
+## Fundamentals (total 2d)
 
 - [ASP.NET Core fundamentals](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/?view=aspnetcore-3.1&tabs=windows) :heavy_check_mark:       
     
