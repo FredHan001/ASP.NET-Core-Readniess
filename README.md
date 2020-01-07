@@ -1,7 +1,7 @@
 # ASP.NET-Core-Readniess
 
 
-## Introduction And Get Started
+## Introduction And Get Started <mark>(total 2.5d)</mark>
 
 - [Introduction to ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-3.1)
 - [Choose between ASP.NET 4.x and ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/choose-aspnet-framework?view=aspnetcore-3.1)
@@ -11,9 +11,9 @@
 ## Tutorials 
 
   ### Web apps
-  #### Razor Pages
+  #### Razor Pages (total 2d)
 
-- [Razor Pages (basic series)](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/?view=aspnetcore-3.1)
+- [Razor Pages (basic series)](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/?view=aspnetcore-3.1) 1d
 
     1.[Create a Razor Pages web app](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/razor-pages-start?view=aspnetcore-3.1)
 
@@ -31,7 +31,7 @@
 
     8.[Add validation](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/validation?view=aspnetcore-3.1)
 
-- Razor Pages (advanced series)
+- Razor Pages (advanced series) 1d
 
     1.[ASP.NET Core Razor SDK](https://docs.microsoft.com/en-us/aspnet/core/razor-pages/sdk?view=aspnetcore-3.1)
 
@@ -39,9 +39,9 @@
 
     3.[Filter methods for Razor Pages in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/razor-pages/filter?view=aspnetcore-3.1) :heavy_check_mark:  
     
- #### MVC
+ #### MVC (total 3d)
  
- - [MVC (basic series)](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/?view=aspnetcore-3.1)
+ - [MVC (basic series)](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/?view=aspnetcore-3.1) 1.5d
 
     1.[Get started](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-3.1)
 
@@ -63,7 +63,7 @@
     
     10.[Examine the Details and Delete methods](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/details?view=aspnetcore-3.1)
 
-- MVC (advanced series)
+- MVC (advanced series) 1.5d
 
     1.[Passing data to views](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/overview?view=aspnetcore-3.1#passing-data-to-views) :heavy_check_mark:  
 
@@ -75,9 +75,9 @@
     
     5.[Dependency injection into views](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/dependency-injection?view=aspnetcore-3.1) :heavy_check_mark:  
   
- #### Blazor
+ #### Blazor (total 7.5d)
 
-- Blazor app (basic series)
+- Blazor app (basic series) (total 4d)
 
     1.[Supported platforms](https://docs.microsoft.com/en-us/aspnet/core/blazor/supported-platforms?view=aspnetcore-3.1)
   
@@ -92,61 +92,61 @@
     6.[Component libraries](https://docs.microsoft.com/en-us/aspnet/core/blazor/class-libraries?view=aspnetcore-3.1&tabs=visual-studio)
 
 
-- Blazor app (advanced series)
+- Blazor app (advanced series) (total 3.5d)
 
-    1.[Blazor lifecycle](https://docs.microsoft.com/en-us/aspnet/core/blazor/lifecycle?view=aspnetcore-3.1) :heavy_check_mark:
+    1.[Blazor lifecycle](https://docs.microsoft.com/en-us/aspnet/core/blazor/lifecycle?view=aspnetcore-3.1) :heavy_check_mark: 0.5d
 
-    2.[Layouts](https://docs.microsoft.com/en-us/aspnet/core/blazor/layouts?view=aspnetcore-3.1)
+    2.[Layouts](https://docs.microsoft.com/en-us/aspnet/core/blazor/layouts?view=aspnetcore-3.1) 0.2d
 
-    3.[Dependency injection](https://docs.microsoft.com/en-us/aspnet/core/blazor/dependency-injection?view=aspnetcore-3.1) :heavy_check_mark:   
+    3.[Dependency injection](https://docs.microsoft.com/en-us/aspnet/core/blazor/dependency-injection?view=aspnetcore-3.1) :heavy_check_mark: 0.5d  
     
-    4.[Routing](https://docs.microsoft.com/en-us/aspnet/core/blazor/routing?view=aspnetcore-3.1) :heavy_check_mark:   
+    4.[Routing](https://docs.microsoft.com/en-us/aspnet/core/blazor/routing?view=aspnetcore-3.1) :heavy_check_mark: 0.5d  
     
-    5.[JavaScript interop](https://docs.microsoft.com/en-us/aspnet/core/blazor/javascript-interop?view=aspnetcore-3.1) :heavy_check_mark:   
+    5.[JavaScript interop](https://docs.microsoft.com/en-us/aspnet/core/blazor/javascript-interop?view=aspnetcore-3.1) :heavy_check_mark: 0.8d  
     
-    6.[Handle errors](https://docs.microsoft.com/en-us/aspnet/core/blazor/handle-errors?view=aspnetcore-3.1)
+    6.[Handle errors](https://docs.microsoft.com/en-us/aspnet/core/blazor/handle-errors?view=aspnetcore-3.1) 1d
     
- ##### Tag Helpers
+ ##### Tag Helpers (total 1d)
  
    - [Tag Helpers in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/tag-helpers/intro?view=aspnetcore-3.1)
    
-##### Advanced
+##### Advanced (total 3d)
  
-  - [View components](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/view-components?view=aspnetcore-3.1) :heavy_check_mark:
+  - [View components](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/view-components?view=aspnetcore-3.1) :heavy_check_mark: 0.5d
   
-  - [View compilation](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/view-compilation?view=aspnetcore-3.1)
+  - [View compilation](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/view-compilation?view=aspnetcore-3.1) 0.25d 
   
-  - [Application model](https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/application-model?view=aspnetcore-3.1)
+  - [Application model](https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/application-model?view=aspnetcore-3.1) 0.5d
   
-  - [Filters](https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/filters?view=aspnetcore-3.1) :heavy_check_mark:
+  - [Filters](https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/filters?view=aspnetcore-3.1) :heavy_check_mark: 0.5d
   
-  - [Areas](https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/areas?view=aspnetcore-3.1) :heavy_check_mark:
+  - [Areas](https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/areas?view=aspnetcore-3.1) :heavy_check_mark: 0.5d
   
-  - [Upload files](https://docs.microsoft.com/en-us/aspnet/core/mvc/models/file-uploads?view=aspnetcore-3.1) :heavy_check_mark:
+  - [Upload files](https://docs.microsoft.com/en-us/aspnet/core/mvc/models/file-uploads?view=aspnetcore-3.1) :heavy_check_mark: 0.5d
   
-  - [App part](https://docs.microsoft.com/en-us/aspnet/core/mvc/advanced/app-parts?view=aspnetcore-3.1)
+  - [App part](https://docs.microsoft.com/en-us/aspnet/core/mvc/advanced/app-parts?view=aspnetcore-3.1) 0.25d
   
-## Fundamentals
+## Fundamentals (total 1.5d)
 
 - [ASP.NET Core fundamentals](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/?view=aspnetcore-3.1&tabs=windows) :heavy_check_mark:       
     
-## Globalization and localization
+## Globalization and localization (total 0.5d)
 
 - [Globalization and localization in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/localization?view=aspnetcore-3.1)
 
-## Advanced
+## Advanced (total 5d)
 
- - [Model Binding](https://docs.microsoft.com/en-us/aspnet/core/mvc/models/model-binding?view=aspnetcore-3.1) :heavy_check_mark:  
+ - [Model Binding](https://docs.microsoft.com/en-us/aspnet/core/mvc/models/model-binding?view=aspnetcore-3.1) :heavy_check_mark: 1.5d 
  
- - [Custom Model Binding](https://docs.microsoft.com/en-us/aspnet/core/mvc/advanced/custom-model-binding?view=aspnetcore-3.1) :heavy_check_mark:  
+ - [Custom Model Binding](https://docs.microsoft.com/en-us/aspnet/core/mvc/advanced/custom-model-binding?view=aspnetcore-3.1) :heavy_check_mark: 0.5d
  
- - [Model validation](https://docs.microsoft.com/en-us/aspnet/core/mvc/models/validation?view=aspnetcore-3.1) :heavy_check_mark:  
+ - [Model validation](https://docs.microsoft.com/en-us/aspnet/core/mvc/models/validation?view=aspnetcore-3.1) :heavy_check_mark: 1d 
  
- - [Compatibility version](https://docs.microsoft.com/en-us/aspnet/core/mvc/compatibility-version?view=aspnetcore-3.1) :heavy_check_mark:  
+ - [Compatibility version](https://docs.microsoft.com/en-us/aspnet/core/mvc/compatibility-version?view=aspnetcore-3.1) :heavy_check_mark: 0.5d
  
- - [Write custom middleware](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/middleware/write?view=aspnetcore-3.1) :heavy_check_mark:  
+ - [Write custom middleware](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/middleware/write?view=aspnetcore-3.1) :heavy_check_mark: 0.5d 
  
- - [Background tasks with hosted services](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/host/hosted-services?view=aspnetcore-3.1&tabs=visual-studio) :heavy_check_mark:  
+ - [Background tasks with hosted services](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/host/hosted-services?view=aspnetcore-3.1&tabs=visual-studio) :heavy_check_mark: 1d  
  
  ## Videos 
  
