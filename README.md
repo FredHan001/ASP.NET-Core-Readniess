@@ -159,3 +159,7 @@
  - [New JSON serialization](https://msit.microsoftstream.com/video/8d7e2a2d-013c-4287-b8fc-a111348e9d9e)
  
  - [Create a Landlord Game Using Blazor](https://msit.microsoftstream.com/video/b6fc38a0-51d1-4679-87d7-efdb164f67cc)
+ 
+ - [How to build and publish a asp.net core application](https://msit.microsoftstream.com/video/263ea1ff-0400-86e8-b896-f1ea75571503)
+ 
+ - [Model Binding in ASP.NET Core](https://msit.microsoftstream.com/video/ae2ca1ff-0400-86eb-47f6-f1ea7e2284bc)
