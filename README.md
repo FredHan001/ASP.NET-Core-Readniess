@@ -163,3 +163,5 @@
  - [How to build and publish a asp.net core application](https://msit.microsoftstream.com/video/263ea1ff-0400-86e8-b896-f1ea75571503)
  
  - [Model Binding in ASP.NET Core](https://msit.microsoftstream.com/video/ae2ca1ff-0400-86eb-47f6-f1ea7e2284bc)
+ 
+ - [JWT Authentication](https://msit.microsoftstream.com/video/ef07a4ff-0400-96d0-b679-f1ea98e2e1f4)
