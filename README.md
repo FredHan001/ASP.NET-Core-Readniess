@@ -165,3 +165,7 @@
  - [Model Binding in ASP.NET Core](https://msit.microsoftstream.com/video/ae2ca1ff-0400-86eb-47f6-f1ea7e2284bc)
  
  - [JWT Authentication](https://msit.microsoftstream.com/video/ef07a4ff-0400-96d0-b679-f1ea98e2e1f4)
+ 
+ - [ASP.NET Core Source Code Debug & Routing Middleware Introduce](https://msit.microsoftstream.com/video/b27fb90c-5599-47a8-ac34-81f9d09f7fcb)
+ 
+ - [Model Validation In ASP.NET Core](https://msit.microsoftstream.com/video/1d40a1ff-0400-96d0-7ff0-f1ea9a6ad633)
