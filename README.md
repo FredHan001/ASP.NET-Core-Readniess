@@ -169,3 +169,14 @@
  - [ASP.NET Core Source Code Debug & Routing Middleware Introduce](https://msit.microsoftstream.com/video/b27fb90c-5599-47a8-ac34-81f9d09f7fcb)
  
  - [Model Validation In ASP.NET Core](https://msit.microsoftstream.com/video/1d40a1ff-0400-96d0-7ff0-f1ea9a6ad633)
+
+### New courses
+
+- ASP.NET Core Fundamentals: https://learningplayer.microsoft.com/activity/S9196699/launch 
+- ASP.NET Core MVC: https://learningplayer.microsoft.com/activity/s9196704/launch/ 
+- ASP.NET Core Razor Pages: https://learningplayer.microsoft.com/activity/s9200774/launch 
+- ASP.NET Core RESTful WebAPI with Entity Framework Core: https://learningplayer.microsoft.com/activity/s9200816/launch 
+- ASP.NET Core Blazor with Entity Framework Core: https://learningplayer.microsoft.com/activity/s9201617/launch/ 
+- ASP.NET Core SignalR with Entity Framework Core: https://learningplayer.microsoft.com/activity/s9200841/launch
+- ASP.NET Core Deployment: https://learningplayer.microsoft.com/activity/s9200817/launch 
+
